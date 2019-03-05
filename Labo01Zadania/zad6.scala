@@ -11,7 +11,7 @@ object Main extends App {
 
   while ( !(isPrime(a) && isPrime(b))) {
     a += 1
-    b += 1
+    b -= 1
   }
   print("Liczba spełnia hipoteze Goldbacha: ")
   print(a)
