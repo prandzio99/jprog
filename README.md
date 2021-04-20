@@ -1,4 +1,4 @@
-#To również zadania z uczelni
+# To również zadania z uczelni
 
 Zadania (niestety bez opisów) z przedmiotu "Języki programowania", głównie opierały się na Scali.
 
